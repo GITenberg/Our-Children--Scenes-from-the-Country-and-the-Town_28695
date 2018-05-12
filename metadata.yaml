@@ -1,0 +1,47 @@
+_repo: Our-Children--Scenes-from-the-Country-and-the-Town_28695
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Boutet de Monvel, Louis-Maurice
+    aliases:
+    - De Monvel, Louis-Maurice Boutet
+    - Monvel, Louis-Maurice Boutet de
+    - Monvel, Boutet de
+    - Monvel, Louis Maurice Boutet de
+    birthdate: 1851
+    deathdate: 1913
+    gutenberg_agent_id: '33490'
+    url: http://www.gutenberg.org/2009/agents/33490
+covers:
+- cover_type: archival
+  image_path: 28695-h/images/cover.jpg
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_bookshelf:
+- Illustrators
+- FR Illustrateurs
+gutenberg_issued: '2009-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PQ'
+- !lcsh 'Children''s stories'
+title: 'Our Children: Scenes from the Country and the Town'
+url: http://www.gutenberg.org/ebooks/28695
